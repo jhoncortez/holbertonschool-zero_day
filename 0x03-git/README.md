@@ -1,2 +1,2 @@
 # 03-git project
-*this project is about the source code management system Git, the comands and how to use it*
+*Starting to code today!, so cool!. this project is about the source code management system Git, files versions, working with branches and be aup to date with the files*
